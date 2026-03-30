@@ -1,0 +1,26 @@
+body{
+
+background-color: gold;
+
+
+}
+.stand{
+
+height: 1000px ;
+width: 1500px ;
+
+}
+#titulo{
+
+    background-color: rgb(196, 255, 255);
+color: crimson;
+
+}
+
+p{
+
+    font-size: 100px;
+color: deeppink;
+
+
+}
